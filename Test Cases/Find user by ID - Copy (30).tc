@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Find user by ID - Copy (30)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4ddab69c-a749-4b6c-aa79-739c6eace5df</testCaseGuid>
+   <variable>
+      <defaultValue>25</defaultValue>
+      <description></description>
+      <id>2b4199fe-8f94-422d-902f-9d17a31bff31</id>
+      <masked>false</masked>
+      <name>age</name>
+   </variable>
+   <variable>
+      <defaultValue>'mimi'</defaultValue>
+      <description></description>
+      <id>e0a50087-3f9f-48fd-960d-3154319c42b2</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'123456789'</defaultValue>
+      <description></description>
+      <id>b920eed3-d030-49a4-8b7d-fd1ae41d71ee</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'MALE'</defaultValue>
+      <description></description>
+      <id>520e609b-6b72-4448-a638-00f26d11c6d9</id>
+      <masked>false</masked>
+      <name>gender</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.globalId</defaultValue>
+      <description></description>
+      <id>ee5ca921-cbe3-4188-8eae-9a1a916c7560</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+</TestCaseEntity>

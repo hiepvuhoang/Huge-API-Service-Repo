@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create a new user - Copy (98)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>20a6f353-4d0a-4552-846a-fd7f25fe10e6</testCaseGuid>
+   <variable>
+      <defaultValue>25</defaultValue>
+      <description></description>
+      <id>7df74ef4-6eab-4a2e-a1ac-7fdbd4bc3394</id>
+      <masked>false</masked>
+      <name>age</name>
+   </variable>
+   <variable>
+      <defaultValue>'mimi'</defaultValue>
+      <description></description>
+      <id>ffda0760-18bd-41ec-a5cc-dfa273e8f841</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'123456789'</defaultValue>
+      <description></description>
+      <id>648ed484-c0ae-4f69-b9d4-3ceff95a6d61</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://www.rd.com/wp-content/uploads/2019/06/lily-of-the-valley-760x506.jpg'</defaultValue>
+      <description></description>
+      <id>207912ce-969a-4cd3-80e3-70552dce2a38</id>
+      <masked>false</masked>
+      <name>avatar</name>
+   </variable>
+   <variable>
+      <defaultValue>'MALE'</defaultValue>
+      <description></description>
+      <id>c353a072-61f6-489d-8ac0-e083ef8223c2</id>
+      <masked>false</masked>
+      <name>gender</name>
+   </variable>
+</TestCaseEntity>
